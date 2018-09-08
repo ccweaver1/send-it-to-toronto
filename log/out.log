@@ -1,0 +1,90 @@
+
+
+2018-06-08T18:05:46.633Z
+::1
+[0mGET / [32m200 [0m345.438 ms - 269[0m
+[0mGET /stylesheets/style.css [36m304 [0m3.121 ms - -[0m
+[0mGET /javascripts/video_player.js [36m304 [0m1.021 ms - -[0m
+[0mGET /goal/1 [32m206 [0m2.707 ms - 2[0m
+[0mGET /goal/1 [32m206 [0m1.123 ms - 1854651[0m
+
+
+2018-06-08T18:05:48.189Z
+::1
+[0mGET / [32m200 [0m25.368 ms - 269[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.354 ms - -[0m
+[0mGET /javascripts/video_player.js [36m304 [0m0.459 ms - -[0m
+[0mGET /goal/3 [32m206 [0m0.658 ms - 2[0m
+[0mGET /goal/3 [32m206 [0m0.579 ms - 1868515[0m
+
+
+2018-06-08T18:05:49.169Z
+::1
+[0mGET / [32m200 [0m21.693 ms - 269[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.603 ms - -[0m
+[0mGET /javascripts/video_player.js [36m304 [0m0.319 ms - -[0m
+[0mGET /goal/3 [32m206 [0m1.075 ms - 2[0m
+[0mGET /goal/3 [32m206 [0m0.487 ms - 1868515[0m
+
+
+2018-06-08T18:05:49.938Z
+::1
+[0mGET / [32m200 [0m13.375 ms - 269[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.296 ms - -[0m
+[0mGET /javascripts/video_player.js [36m304 [0m0.373 ms - -[0m
+[0mGET /goal/1 [32m206 [0m0.458 ms - 2[0m
+[0mGET /goal/1 [32m206 [0m0.584 ms - 1854651[0m
+
+
+2018-06-08T18:05:50.673Z
+::1
+[0mGET / [32m200 [0m12.898 ms - 269[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.392 ms - -[0m
+[0mGET /javascripts/video_player.js [36m304 [0m0.350 ms - -[0m
+[0mGET /goal/0 [32m206 [0m0.593 ms - 2[0m
+[0mGET /goal/0 [32m206 [0m0.429 ms - 1827656[0m
+
+
+2018-06-08T18:05:51.288Z
+::1
+[0mGET / [32m200 [0m5.404 ms - 269[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.344 ms - -[0m
+[0mGET /javascripts/video_player.js [36m304 [0m0.328 ms - -[0m
+[0mGET /goal/1 [32m206 [0m0.446 ms - 2[0m
+[0mGET /goal/1 [32m206 [0m0.422 ms - 1854651[0m
+
+
+2018-06-08T18:05:51.909Z
+::1
+[0mGET / [32m200 [0m6.161 ms - 269[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.232 ms - -[0m
+[0mGET /javascripts/video_player.js [36m304 [0m0.536 ms - -[0m
+[0mGET /goal/0 [32m206 [0m0.484 ms - 2[0m
+[0mGET /goal/0 [32m206 [0m1.382 ms - 1827656[0m
+
+
+2018-06-08T18:05:52.669Z
+::1
+[0mGET / [32m200 [0m6.436 ms - 269[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.275 ms - -[0m
+[0mGET /javascripts/video_player.js [36m304 [0m0.516 ms - -[0m
+[0mGET /goal/2 [32m206 [0m0.472 ms - 2[0m
+[0mGET /goal/2 [32m206 [0m0.501 ms - 2898782[0m
+
+
+2018-06-08T18:05:53.446Z
+::1
+[0mGET / [32m200 [0m6.926 ms - 269[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.340 ms - -[0m
+[0mGET /javascripts/video_player.js [36m304 [0m0.304 ms - -[0m
+[0mGET /goal/4 [32m206 [0m0.854 ms - 2[0m
+[0mGET /goal/4 [32m206 [0m0.423 ms - 1550181[0m
+
+
+2018-06-08T18:05:54.400Z
+::1
+[0mGET / [32m200 [0m5.114 ms - 269[0m
+[0mGET /stylesheets/style.css [36m304 [0m0.292 ms - -[0m
+[0mGET /javascripts/video_player.js [36m304 [0m0.314 ms - -[0m
+[0mGET /goal/5 [32m206 [0m0.587 ms - 2[0m
+[0mGET /goal/5 [32m206 [0m0.533 ms - 1051531[0m

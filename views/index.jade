@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  title=title
+  video(id="videoPlayer", controls)
+  script(type="text/javascript").
+    number_videos=#{num_videos}
+  script(src="javascripts/video_player.js")
+  button(id="butt")
