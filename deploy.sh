@@ -1,10 +1,6 @@
 echo 'Deploying node'
 
-# host=ec2-user@ec2-34-230-86-85
-host=ec2-user@ec2-18-206-62-163.compute-1.amazonaws.com
-local_path=/Users/campbellweaver/Documents/Personal/dev/send-it-to-tor
-destination_path=/home/ec2-user
-key=/Users/campbellweaver/Documents/BSI/aws_keys/send_it_to_tor_key.pem
+
 
 echo 'Removing modules'
 rm -r node_modules
